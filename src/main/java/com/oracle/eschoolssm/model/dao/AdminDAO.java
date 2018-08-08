@@ -4,7 +4,7 @@ package com.oracle.eschoolssm.model.dao;
 import com.oracle.eschoolssm.model.bean.Admin;
 
 import java.util.List;
-
+//ddasdsadassadsadsadsadsad
 public interface AdminDAO {
     //管理员登录
     public Admin getInfoByUAndP(String username, String password);
